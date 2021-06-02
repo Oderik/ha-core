@@ -95,6 +95,7 @@ homeassistant/components/configurator/* @home-assistant/core
 homeassistant/components/control4/* @lawtancool
 homeassistant/components/conversation/* @home-assistant/core
 homeassistant/components/coolmaster/* @OnFreund
+homeassistant/components/coolstuff/* @Oderik
 homeassistant/components/coronavirus/* @home_assistant/core
 homeassistant/components/counter/* @fabaff
 homeassistant/components/cover/* @home-assistant/core

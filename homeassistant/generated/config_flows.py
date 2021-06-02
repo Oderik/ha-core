@@ -46,6 +46,7 @@ FLOWS = [
     "cloudflare",
     "control4",
     "coolmaster",
+    "coolstuff",
     "coronavirus",
     "daikin",
     "deconz",
